@@ -1,6 +1,0 @@
-127.0.0.1 - - [31/Jul/2018:18:23:47 +0530] "GET / HTTP/1.1" 404 1076
-0:0:0:0:0:0:0:1 - - [31/Jul/2018:18:23:50 +0530] "GET /java-saml-tookit-jspsample HTTP/1.1" 302 -
-0:0:0:0:0:0:0:1 - - [31/Jul/2018:18:23:52 +0530] "GET /java-saml-tookit-jspsample/ HTTP/1.1" 200 1011
-0:0:0:0:0:0:0:1 - - [31/Jul/2018:18:23:52 +0530] "GET /favicon.ico HTTP/1.1" 404 1087
-0:0:0:0:0:0:0:1 - - [31/Jul/2018:18:25:58 +0530] "GET /java-saml-tookit-jspsample/dologin.jsp HTTP/1.1" 500 3849
-0:0:0:0:0:0:0:1 - - [31/Jul/2018:18:26:06 +0530] "GET /java-saml-tookit-jspsample/dologin.jsp?attrs=1 HTTP/1.1" 500 3849
