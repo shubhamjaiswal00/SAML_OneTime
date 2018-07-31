@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
-<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1533046237254_0" label="Window Working Set" name="Aggregate for window 1533046237254"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1533048067018_0" label="java-saml-toolkit" name="java-saml-toolkit">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/java-saml" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/java-saml-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/java-saml-tookit-samples" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/java-saml-tookit-jspsample" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1533048379178_1" label="Window Working Set" name="Aggregate for window 1533048379178"/>
 </workingSetManager>
