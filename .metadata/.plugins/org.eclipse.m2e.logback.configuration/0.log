@@ -1,0 +1,80 @@
+2018-07-31 20:11:07,329 [Worker-3] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project java-saml already exists
+2018-07-31 20:11:08,509 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.onelogin:java-saml-toolkit:2.3.1-SNAPSHOT @ D:\Shubham_Java\SAML_OneTime\java-saml\pom.xml.
+2018-07-31 20:11:13,545 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.onelogin:java-saml-core:2.3.1-SNAPSHOT @ D:\Shubham_Java\SAML_OneTime\java-saml\core\pom.xml.
+2018-07-31 20:11:14,439 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.onelogin:java-saml-tookit-samples:2.3.1-SNAPSHOT @ D:\Shubham_Java\SAML_OneTime\java-saml\samples\pom.xml.
+2018-07-31 20:11:15,018 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.onelogin:java-saml-tookit-jspsample:2.3.1-SNAPSHOT @ D:\Shubham_Java\SAML_OneTime\java-saml\samples\java-saml-tookit-jspsample\pom.xml.
+2018-07-31 20:11:15,025 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.onelogin:java-saml:jar:2.3.1-SNAPSHOT is missing, no dependency information available
+2018-07-31 20:11:18,927 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-saml-tookit-jspsample/src/main/java
+2018-07-31 20:11:18,928 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /java-saml-tookit-jspsample/src/main/resources
+2018-07-31 20:11:18,962 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-saml-tookit-jspsample/src/test/java
+2018-07-31 20:11:22,283 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.onelogin:java-saml:jar:2.3.1-SNAPSHOT is missing, no dependency information available
+2018-07-31 20:11:22,504 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-saml-core/src/main/java
+2018-07-31 20:11:22,504 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /java-saml-core/src/main/resources
+2018-07-31 20:11:22,542 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-saml-core/src/test/java
+2018-07-31 20:11:22,542 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /java-saml-core/src/test/resources
+2018-07-31 20:11:23,628 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 5 project(s) in 16 sec
+2018-07-31 20:11:28,060 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 20:11:28,089 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2018-07-31 20:11:28,412 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 20:11:28,416 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2018-07-31 20:11:30,306 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.onelogin:java-saml:jar:2.3.1-SNAPSHOT is missing, no dependency information available
+2018-07-31 20:11:30,326 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 20:11:30,326 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-31 20:11:30,339 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 20:11:30,339 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Shubham_Java\SAML_OneTime\java-saml\samples\java-saml-tookit-jspsample\src\test\resources
+2018-07-31 20:13:01,513 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.onelogin:java-saml-core:2.3.1-SNAPSHOT @ D:\Shubham_Java\SAML_OneTime\java-saml\core\pom.xml.
+2018-07-31 20:13:02,130 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.onelogin:java-saml-toolkit:2.3.1-SNAPSHOT @ D:\Shubham_Java\SAML_OneTime\java-saml\pom.xml.
+2018-07-31 20:13:02,133 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.onelogin:java-saml-tookit-samples:2.3.1-SNAPSHOT @ D:\Shubham_Java\SAML_OneTime\java-saml\samples\pom.xml.
+2018-07-31 20:13:02,351 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.onelogin:java-saml-tookit-jspsample:2.3.1-SNAPSHOT @ D:\Shubham_Java\SAML_OneTime\java-saml\samples\java-saml-tookit-jspsample\pom.xml.
+2018-07-31 20:13:02,355 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.onelogin:java-saml:jar:2.3.1-SNAPSHOT is missing, no dependency information available
+2018-07-31 20:13:02,575 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.onelogin:java-saml:jar:2.3.1-SNAPSHOT is missing, no dependency information available
+2018-07-31 20:13:07,382 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 20:13:07,397 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2018-07-31 20:13:07,733 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 20:13:07,754 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2018-07-31 20:13:09,430 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.onelogin:java-saml:jar:2.3.1-SNAPSHOT is missing, no dependency information available
+2018-07-31 20:13:09,446 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 20:13:09,447 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-31 20:13:09,448 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 20:13:09,448 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Shubham_Java\SAML_OneTime\java-saml\samples\java-saml-tookit-jspsample\src\test\resources
+2018-07-31 20:16:00,547 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-07-31 20:16:00,963 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.onelogin:java-saml-toolkit:2.3.1-SNAPSHOT @ D:\Shubham_Java\SAML_OneTime\java-saml\pom.xml.
+2018-07-31 20:16:03,824 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.onelogin:java-saml-core:2.3.1-SNAPSHOT @ D:\Shubham_Java\SAML_OneTime\java-saml\core\pom.xml.
+2018-07-31 20:16:04,749 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.onelogin:java-saml-tookit-samples:2.3.1-SNAPSHOT @ D:\Shubham_Java\SAML_OneTime\java-saml\samples\pom.xml.
+2018-07-31 20:16:04,950 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.onelogin:java-saml-tookit-jspsample:2.3.1-SNAPSHOT @ D:\Shubham_Java\SAML_OneTime\java-saml\samples\java-saml-tookit-jspsample\pom.xml.
+2018-07-31 20:16:04,952 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.onelogin:java-saml:jar:2.3.1-SNAPSHOT is missing, no dependency information available
+2018-07-31 20:16:05,120 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.onelogin:java-saml:jar:2.3.1-SNAPSHOT is missing, no dependency information available
+2018-07-31 20:16:08,189 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-saml-core/src/main/java
+2018-07-31 20:16:08,189 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /java-saml-core/src/main/resources
+2018-07-31 20:16:08,190 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-saml-core/src/test/java
+2018-07-31 20:16:08,191 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /java-saml-core/src/test/resources
+2018-07-31 20:16:08,591 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-saml-tookit-jspsample/src/main/java
+2018-07-31 20:16:08,591 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /java-saml-tookit-jspsample/src/main/resources
+2018-07-31 20:16:08,592 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-saml-tookit-jspsample/src/test/java
+2018-07-31 20:16:09,468 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.onelogin:java-saml:jar:2.3.1-SNAPSHOT is missing, no dependency information available
+2018-07-31 20:16:09,824 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for java-saml-tookit-jspsample
+2018-07-31 20:16:09,830 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 9 sec
+2018-07-31 20:16:12,383 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 20:16:12,384 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2018-07-31 20:16:12,537 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 20:16:12,539 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2018-07-31 20:16:15,046 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.onelogin:java-saml:jar:2.3.1-SNAPSHOT is missing, no dependency information available
+2018-07-31 20:16:15,121 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 20:16:15,122 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-31 20:16:15,146 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 20:16:15,147 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Shubham_Java\SAML_OneTime\java-saml\samples\java-saml-tookit-jspsample\src\test\resources
+2018-07-31 20:16:15,147 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of java-saml-tookit-jspsample
+2018-07-31 20:16:15,149 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for java-saml-tookit-jspsample
+2018-07-31 20:16:15,156 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 20:17:36,037 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.onelogin:java-saml-tookit-jspsample:2.3.1-SNAPSHOT @ D:\Shubham_Java\SAML_OneTime\java-saml\samples\java-saml-tookit-jspsample\pom.xml.
+2018-07-31 20:17:37,572 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 20:17:37,576 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-31 20:17:37,581 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 20:17:37,582 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Shubham_Java\SAML_OneTime\java-saml\samples\java-saml-tookit-jspsample\src\test\resources
+2018-07-31 20:17:37,582 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of java-saml-tookit-jspsample
+2018-07-31 20:17:37,582 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for java-saml-tookit-jspsample
+2018-07-31 20:17:37,590 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 20:17:38,741 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 20:17:38,742 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-31 20:17:38,746 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 20:17:38,746 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Shubham_Java\SAML_OneTime\java-saml\samples\java-saml-tookit-jspsample\src\test\resources

@@ -1,0 +1,4 @@
+127.0.0.1 - - [31/Jul/2018:20:18:19 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [31/Jul/2018:20:18:40 +0530] "GET /java-saml-tookit-jspsample HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [31/Jul/2018:20:18:42 +0530] "GET /java-saml-tookit-jspsample/ HTTP/1.1" 200 1011
+0:0:0:0:0:0:0:1 - - [31/Jul/2018:20:18:47 +0530] "GET /java-saml-tookit-jspsample/dologin.jsp HTTP/1.1" 500 3880
